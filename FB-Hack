@@ -1,0 +1,41 @@
+Step 1 - Install Termux App on your Android smartphone .
+
+Step 2 - type commands as shown below :-
+
+           $ apt update && apt upgrade
+
+           $ pkg install git
+
+           $ pkg install php
+
+           $ pkg install openssh
+
+           $ git clone https://github.com/htr-tech/zphisher             
+           
+           $ cd zphisher
+
+           $ chmod +x *
+
+           $ bash zphisher.sh
+
+Now turn on your mobile hotspot 
+
+Now select, of which social site you want to make phishing page. By enter number 
+
+~I choose 1 for facebook phishing
+
+here you see, 4 options on which you able to make phishing page.
+
+All of them look like original page , so it is easy to gain victim trust
+
+~so here, I select 3 Now here, you have to select 2 (Ngrok.io) it is good for generate link 
+
+Note :- make sure your hotspot is ON
+
+Here you see in above picture, you get link...... Now copy this link & send to your victim, when victim open this link in his browser
+
+ Victim see this (as shown in above picture)
+
+ It is same as original page of facebook so victim trust it easily and now victim entered his details like:-   username , passwords. 
+
+ After victim type his details.
